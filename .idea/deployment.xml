@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Daiweb">
+    <serverData>
+      <paths name="Daiweb">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/LLD/Laravel/laravel-express" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
