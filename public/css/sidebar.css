@@ -1,0 +1,8 @@
+#sidebar {
+    margin-top: 20px;
+    padding: 20px 30px;
+}
+#sidebar #categorias,
+#sidebar #tags {
+    margin-top: 20px;
+}

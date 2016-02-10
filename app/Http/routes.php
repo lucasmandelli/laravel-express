@@ -11,7 +11,10 @@
 |
 */
 
-Route::get('/', "BlogController@index");
+Route::get('/', "PostsController@index");
+Route::get('/{id}/{titulo}', "PostsController@post");
+
+
 /*
 |--------------------------------------------------------------------------
 | Application Routes
